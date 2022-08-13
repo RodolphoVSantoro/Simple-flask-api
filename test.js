@@ -1,6 +1,6 @@
 var _Res;
 var _botao;
-var _URL = "http://localhost:5000/companies";
+var _URL = "http://localhost:5000/cars";
 
 function DOM_setText(element, text){
 	element.innerHTML='';
